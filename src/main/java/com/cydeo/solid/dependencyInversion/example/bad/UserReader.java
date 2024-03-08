@@ -13,7 +13,7 @@ public class UserReader {
         return xmlReader.getUsername();
     }
 
-//    public String getUsernameFromJSON() {
+//    public String getUsernameFromJSON() { // We need to add jsonReader in getter too
 //        return jsonReader.getUsername();
 //    }
 
