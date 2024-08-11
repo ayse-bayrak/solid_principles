@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.solid.sourceCodeDependency;
 
 public class Y implements Z {
 

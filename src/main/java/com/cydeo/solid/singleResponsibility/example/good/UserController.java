@@ -1,5 +1,6 @@
 package com.cydeo.solid.singleResponsibility.example.good;
 //“Just because you can, does not mean you should.”
+
 public class UserController { // this class, only responsible for this kind of operation
 
     public static void getRequest() {

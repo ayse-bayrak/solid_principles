@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.solid.sourceCodeDependency;
 
 public class X {
 
@@ -9,5 +9,4 @@ public class X {
         z.method();
 
     }
-
 }
